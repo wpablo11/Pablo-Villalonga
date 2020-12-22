@@ -73,7 +73,7 @@ window.onload = function(){
        			,labelClass: "labels" // the CSS class for the label
        			,labelStyle: {opacity: 0.50}
             ,icon: 'images/icons/' + j + '.png'
-            ,url: ''
+            ,url: 'http://www.cpsingenieros.net/es/Internacional/Principales%20Proyectos/'
         });
 			 google.maps.event.addListener(marker, 'click', function() {
         window.location.href = this.url;

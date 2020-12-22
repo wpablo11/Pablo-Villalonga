@@ -11960,13 +11960,13 @@ body.snapjs-right .ct-menuMobile {
 }
 
 li:hover a.whitey {
-	color: #330063 !important;
+	color:  #a0a0a0  !important;
 	
 }
 /*ALEX*/
 .navbar .navbar-menu .navbar-collapse ul.navbar-nav li.active a,
 .navbar .navbar-menu .navbar-collapse ul.navbar-nav li:hover a {
-  color: #330063;
+  color:  #a0a0a0 ;
 }
 .navbar .navbar-menu .navbar-collapse ul.navbar-nav .dropdown .dropdown-menu {
   -webkit-border-radius: 0;
@@ -14537,13 +14537,13 @@ select.form-control:focus {
 }
 .ct-breadcrumbs .container > div .ct-breadcrumbs-list ul li a:hover, .ct-breadcrumbs .container-large > div .ct-breadcrumbs-list ul li a:hover
  {
-  color: #330063;
+  color:  #a0a0a0 ;
 }
 /*ALEX*/
 .ct-breadcrumbs .container > div .ct-breadcrumbs-list ul li.active a, .ct-breadcrumbs .container-large > div .ct-breadcrumbs-list ul li.active a
  
  {
-  color: #330063;
+  color:  #a0a0a0 ;
   font-weight: 800;
 }
 /*ALEX*/
@@ -17647,7 +17647,7 @@ nav ul li {
 }
 
 .ct-js-menuProjectRight li.active a{
-  color: #330063;
+  color:  #a0a0a0 ;
   
 }
 .ct-js-menuProjectRight a.header {
@@ -18301,7 +18301,7 @@ nav ul li {
 }
 
 .ct-u-backgroundPurpleCPS {
-  background-color: #330063;
+  background-color:  #a0a0a0 ;
 }
 .ct-u-opacity7 {
   -moz-opacity: 0.7;
@@ -18607,7 +18607,7 @@ padding-right: 20px;
   
 }
 .autoHover {
-  background-color: #330063 !important;
+  background-color:  #a0a0a0  !important;
   color: white !important;
   display: inline-block;
   vertical-align: middle;

@@ -11,6 +11,6 @@ if($mysql->connect_error){
 	die('Error en la conexión' . $mysql->connect_error);
 }
 
-printf('servidor Informacion: %s\n', $mysql->server_info);
+// printf('servidor Informacion: %s\n', $mysql->server_info);
 
  ?>

@@ -2148,7 +2148,7 @@ th {
 .table > tfoot > tr > td {
   padding: 8px;
   line-height: 1.42857143;
-  vertical-align: top;
+  /*vertical-align: top;*/
   border-top: 1px solid #dddddd;
 }
 .table > thead > tr > th {
@@ -19108,4 +19108,7 @@ padding-right: 20px;
     font-size: 10px !important;
 
 }
+
+.centrado{word-break: break-all;}
+.no_mostrar{display:none}
 /*---------------------------------------------*/
